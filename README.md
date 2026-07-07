@@ -55,7 +55,7 @@ TerraRun объединяет **карту, тренировки, социаль
 ## Быстрые ссылки
 
 - **Сайт:** [terrarun.ru](https://terrarun.ru)
-- **Предрегистрация в бета:** [terrarun.online](https://terrarun.online)
+- **Предрегистрация на бету:** [terrarun.ru/#preorder](https://terrarun.ru/#preorder)
 - **Партнёрства:** [partners@terrarun.ru](mailto:partners@terrarun.ru)
 - **Пресса:** [pr@terrarun.ru](mailto:pr@terrarun.ru)
 - **API и интеграции:** [dev@terrarun.ru](mailto:dev@terrarun.ru)

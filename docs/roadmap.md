@@ -26,7 +26,7 @@
 
 Первым **300** пользователям закрытой беты — **Premium на 6 месяцев бесплатно**.
 
-- Предрегистрация: [terrarun.online](https://terrarun.online)
+- Предрегистрация на бету: [terrarun.ru/#preorder](https://terrarun.ru/#preorder)
 - Подробности: [terrarun.ru](https://terrarun.ru/#premium)
 
 ---
