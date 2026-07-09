@@ -1,5 +1,7 @@
 # TerraRun
 
+**[English](README.en.md)** · Русский
+
 **Active Gaming для бегунов** — мобильная экосистема, где карта становится игровым полем.
 
 [![Сайт](https://img.shields.io/badge/сайт-terrarun.ru-FF8F16?style=for-the-badge)](https://terrarun.ru)
@@ -40,6 +42,8 @@ TerraRun объединяет **карту, тренировки, социаль
 ---
 
 ## Документация
+
+[English](README.en.md)
 
 | Документ | Содержание |
 |----------|------------|
